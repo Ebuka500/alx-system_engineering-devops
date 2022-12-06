@@ -1,1 +1,1 @@
-alias ls="rm *"
+1-hello_you
